@@ -1,0 +1,9 @@
+openai
+sentence-transformers
+python-dotenv
+chromadb
+ipykernel
+langchain
+langchain-community 
+langchain-core
+unstructured[md]
