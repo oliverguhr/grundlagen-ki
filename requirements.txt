@@ -7,3 +7,8 @@ langchain
 langchain-community 
 langchain-core
 unstructured[md]
+transformers 
+pillow 
+diffusers
+ipywidgets 
+accelerate
