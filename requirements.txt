@@ -12,3 +12,4 @@ pillow
 diffusers
 ipywidgets 
 accelerate
+nltk==3.8.1
