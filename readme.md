@@ -17,3 +17,7 @@ This repo contains all the required files for the training. If you have feedback
 
     `pip install -r requirements.txt`
 
+4. Install ffmpeg
+
+    ``sudo apt install ffmpeg`
+
