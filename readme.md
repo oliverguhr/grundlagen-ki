@@ -19,5 +19,5 @@ This repo contains all the required files for the training. If you have feedback
 
 4. Install ffmpeg
 
-    ``sudo apt install ffmpeg`
+    `sudo apt install ffmpeg`
 
