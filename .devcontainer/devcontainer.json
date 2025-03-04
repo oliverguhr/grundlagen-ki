@@ -1,0 +1,31 @@
+{
+  "name": "KI-Schulung",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "mhutchie.git-graph",
+        "njpwerner.autodocstring",
+        "ms-python.black-formatter",
+        "tamasfe.even-better-toml",
+        "ms-azuretools.vscode-docker",
+        "eamodio.gitlens",
+        "KevinRose.vsc-python-indent"
+      ],
+      "settings": {
+        "files.exclude": {
+          "**/.git": true,
+          "**/.svn": true,
+          "**/.hg": true,
+          "**/CVS": true,
+          "**/.DS_Store": true,
+          "**/Thumbs.db": true,
+          "**/__pycache__": true
+        }
+      }
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
+}
