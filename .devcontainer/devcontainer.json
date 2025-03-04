@@ -6,13 +6,9 @@
       "extensions": [
         "ms-python.python",
         "VisualStudioExptTeam.vscodeintellicode",
-        "mhutchie.git-graph",
-        "njpwerner.autodocstring",
-        "ms-python.black-formatter",
-        "tamasfe.even-better-toml",
         "ms-azuretools.vscode-docker",
-        "eamodio.gitlens",
-        "KevinRose.vsc-python-indent"
+        "KevinRose.vsc-python-indent",
+        "ms-toolsai.jupyter"
       ],
       "settings": {
         "files.exclude": {
