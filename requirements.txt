@@ -13,3 +13,4 @@ diffusers
 ipywidgets 
 accelerate
 nltk==3.8.1
+openai-agents
