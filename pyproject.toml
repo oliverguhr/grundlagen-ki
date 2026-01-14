@@ -1,0 +1,25 @@
+[project]
+name = "grundlagen-ki"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "accelerate>=1.12.0",
+    "chromadb>=1.4.0",
+    "diffusers>=0.36.0",
+    "fastmcp>=2.14.3",
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "langchain>=1.2.3",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.7",
+    "nltk==3.8.1",
+    "openai>=2.15.0",
+    "openai-agents>=0.6.5",
+    "pillow>=12.1.0",
+    "python-dotenv>=1.2.1",
+    "sentence-transformers>=5.2.0",
+    "transformers>=4.57.5",
+    "unstructured[md]>=0.18.27",
+]
