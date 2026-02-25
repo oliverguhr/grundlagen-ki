@@ -23,5 +23,5 @@
       }
     }
   },
-  "postCreateCommand": "pip install -r requirements.txt"
+  "postCreateCommand": "sh install.sh"
 }
