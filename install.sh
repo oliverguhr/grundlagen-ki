@@ -4,7 +4,7 @@ set -e
 
 echo "Installing os dependencies..."
 sudo apt update 
-sudo apt install -y ffmpeg
+sudo apt install -y ffmpeg zstd
 
 echo "Installing uv..."
 curl -LsSf https://astral.sh/uv/install.sh | sh
