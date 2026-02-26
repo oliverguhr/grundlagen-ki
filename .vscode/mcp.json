@@ -1,0 +1,7 @@
+{ "servers":{
+    "swiss knife":{
+			"type":"http",
+			"url":"http://localhost:3333/mcp",
+		}
+    }
+}
